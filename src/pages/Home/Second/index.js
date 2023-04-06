@@ -113,6 +113,8 @@ const Second = (props) => {
                 language,
                 license,
                 tokenid,
+                UniftyContractAddr, 
+                CHAIN_ID,
                 MarketplaceContractAddr,
                 MARKETPLACE_URL,
                 qty
